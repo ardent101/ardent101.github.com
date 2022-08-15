@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ardent101</title>
-    <link>https://ardent101.github.com/tags/</link>
+    <link>https://ardent101.github.io/tags/</link>
     <description>Recent content in Tags on Ardent101</description>
     <image>
-      <url>https://ardent101.github.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ardent101.github.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Directory</title>
-      <link>https://ardent101.github.com/tags/active-directory/</link>
+      <link>https://ardent101.github.io/tags/active-directory/</link>
       <pubDate>Sun, 07 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/tags/active-directory/</guid>
+      <guid>https://ardent101.github.io/tags/active-directory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kerberos</title>
-      <link>https://ardent101.github.com/tags/kerberos/</link>
+      <link>https://ardent101.github.io/tags/kerberos/</link>
       <pubDate>Sun, 07 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/tags/kerberos/</guid>
+      <guid>https://ardent101.github.io/tags/kerberos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pentest</title>
-      <link>https://ardent101.github.com/tags/pentest/</link>
+      <link>https://ardent101.github.io/tags/pentest/</link>
       <pubDate>Sun, 07 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/tags/pentest/</guid>
+      <guid>https://ardent101.github.io/tags/pentest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Рекомендации</title>
-      <link>https://ardent101.github.com/tags/%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <link>https://ardent101.github.io/tags/%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Sun, 07 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/tags/%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+      <guid>https://ardent101.github.io/tags/%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Теория</title>
-      <link>https://ardent101.github.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
+      <link>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
       <pubDate>Sun, 07 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
+      <guid>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
       <description></description>
     </item>
     

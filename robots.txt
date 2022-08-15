@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ardent101.github.com/sitemap.xml
+Sitemap: https://ardent101.github.io/sitemap.xml

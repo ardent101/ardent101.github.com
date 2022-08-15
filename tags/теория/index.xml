@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Теория on Ardent101</title>
-    <link>https://ardent101.github.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
+    <link>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
     <description>Recent content in Теория on Ardent101</description>
     <image>
-      <url>https://ardent101.github.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ardent101.github.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kerberos для специалиста по тестированию на проникновение. Часть 2. Классические атаки.</title>
-      <link>https://ardent101.github.com/posts/kerberos_general_attacks/</link>
+      <link>https://ardent101.github.io/posts/kerberos_general_attacks/</link>
       <pubDate>Sun, 07 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/posts/kerberos_general_attacks/</guid>
+      <guid>https://ardent101.github.io/posts/kerberos_general_attacks/</guid>
       <description>Вступление Для Active Directory известно множество атак с использованием протокола Kerberos. Попробую перечислить некоторые из них:
 Атаки на повышение привилегий
  Перебор пользователей Распыление / Подбор паролей AS-REQ roasting AS-REP roasting Kerberoasting (AnySPN, целенаправленный Kerberoasting)  Атаки для дальнейшего продвижения
@@ -26,10 +26,10 @@ Silver Ticket Golden Ticket Skeleton Key Diamond Ticket  Атаки на дел�
     
     <item>
       <title>Kerberos для специалиста по тестированию на проникновение. Часть 1. Теория.</title>
-      <link>https://ardent101.github.com/posts/kerberos_theory/</link>
+      <link>https://ardent101.github.io/posts/kerberos_theory/</link>
       <pubDate>Fri, 05 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://ardent101.github.com/posts/kerberos_theory/</guid>
+      <guid>https://ardent101.github.io/posts/kerberos_theory/</guid>
       <description>Вступление На мой взгляд специалисту по тестированию на проникновение инфраструктуры на базе Active Directory важно понимать общее устройство протокола Kerberos. Вот лишь несколько причин почему:
  Знание устройства протокола Kerberos необходимо для понимания ряда классических атак. Периодически появляются новые атаки, но прежде чем приступать к их эксплуатации, необходимо разобраться к каким последствиям они могут привести. Без знания Kerberos это порой затруднительно, либо вовсе невозможно. Личная чуйка, что если человек называет себя специалистом, то он должен обладать несколько более глубокими знаниями, чем название инструмента или кнопки, на которую надо нажать.</description>
     </item>
