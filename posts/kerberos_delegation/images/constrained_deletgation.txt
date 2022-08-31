@@ -1,0 +1,28 @@
+@startuml
+participant User order 10 #sandybrown
+participant KDC order 20 #lightgreen
+participant "Сервис A" order 30 #lightblue
+participant "Сервис B" order 40 #lightskyblue
+
+skinparam sequenceMessageAlign left
+
+User->KDC: AS REQ 
+KDC->User: AS REP 
+User->KDC: TGS REQ к cервису A
+KDC->User: TGS REP 
+
+note over User #whitesmoke 
+TGS билет 
+к сервису А
+end note
+
+User->"Сервис A": AP REQ c Forwardable TGS
+
+"Сервис A"->"KDC": S4U2Proxy запрос TGS билета\nк сервису B от имени User 
+KDC->"Сервис A": TGS REP c TGS-билетом\nдля User к Service B 
+
+KDC<-KDC: Сервис B есть в атрибуте\nmsDS-AllowedToDelegateTo   \nпользователя User A?\n\nЕсли да, то возвращает\nForwardable TGS для User\nв TGS к Service B
+
+"Сервис A"->"Сервис B": Олицетворяет User\nпри помощи\nполученного TGS  
+
+@enduml

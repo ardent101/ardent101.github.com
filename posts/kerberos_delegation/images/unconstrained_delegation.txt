@@ -1,0 +1,36 @@
+@startuml
+participant User order 10 #sandybrown
+participant KDC order 20 #lightgreen
+participant "Service A" order 30 #lightblue
+participant "Service B" order 40 #lightblue
+
+skinparam sequenceMessageAlign left
+
+User->KDC: AS REQ 
+KDC->User: AS REP 
+User->KDC: TGS REQ к Service A
+
+KDC->KDC: Service A обладает привилегией\nTrustedForDelegation?\n\nЕсли да, то добаляет TGT для User\nв TGS для Service A
+
+KDC->User: TGS REP 
+
+note over User #whitesmoke 
+TGS билет к Service A,
+содержащий TGT для User
+end note
+
+
+User->"Service A": AP REQ c с полученным TGS
+
+
+note over "Service A" #whitesmoke 
+TGT для User
+end note
+
+
+"Service A"->"KDC": TGS REQ к Service B\nc TGT для User 
+KDC->"Service A": TGS REP c TGS-билетом\nдля User к Service B 
+
+"Service A"->"Service B": Олицетворяет User\nпри помощи\nполученного TGS  
+
+@enduml
