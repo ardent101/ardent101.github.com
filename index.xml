@@ -9,7 +9,18 @@
       <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 09:30:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 09:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kerberos для специалиста по тестированию на проникновение. Часть 5. Делегирование, ограниченное на основе ресурсов</title>
+      <link>https://ardent101.github.io/posts/kerberos_rbcd/</link>
+      <pubDate>Thu, 20 Oct 2022 09:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/posts/kerberos_rbcd/</guid>
+      <description>Ранее были рассмотрены механизмы неограниченного и ограниченного делегирования в Active Directory с помощью протокола Kerberos. Теперь перейдем к наиболее интересному с точки зрения проведения атак виду делегирования, а именно ограниченному на основе ресурсов.
+Устройство ограниченного на основе ресурсов делегирования Делегирование, ограниченное на основе ресурсов, появилось в Windows Server 2012.
+Для настройки неограниченного и ограниченного видов делегирования требовалось наличие привилегии SeEnableDelegation, которой по умолчанию обладали только учетные записи с правами уровня администратора домена.</description>
+    </item>
+    
     <item>
       <title>Kerberos для специалиста по тестированию на проникновение. Часть 4. Ограниченное делегирование</title>
       <link>https://ardent101.github.io/posts/kerberos_constrained/</link>
