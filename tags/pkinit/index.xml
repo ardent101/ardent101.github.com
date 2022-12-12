@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PKINIT on Ardent101</title>
+    <link>https://ardent101.github.io/tags/pkinit/</link>
+    <description>Recent content in PKINIT on Ardent101</description>
+    <image>
+      <url>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Dec 2022 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/pkinit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kerberos для специалиста по тестированию на проникновение. Часть 6. PKINIT</title>
+      <link>https://ardent101.github.io/posts/shadow_creds/</link>
+      <pubDate>Mon, 12 Dec 2022 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/posts/shadow_creds/</guid>
+      <description>В статье рассматривается устройство одного из расширений протокола Kerberos - PKINIT. После теоретической вводной будут разобраны техники проведения атак, связанные с указанным расширением, в частности: Shadow Credentials и UnPAC the hash.
+Если вкратце, то первая техника позволяет атакующему закрепиться в домене, не смотря на смену паролей, а вторая получить NT-хеш пароля учетной записи при наличии права изменения атрибута msDS-KeyCredentialLink указанной учетной записи.
+Вводная теория PKINIT (Public Key Cryptography for Initial Authentication in Kerberos) - расширение протокола Kerberos, позволяющее использовать криптографию с открытом ключом на этапе предварительной аутентификации.</description>
+    </item>
+    
+  </channel>
+</rss>
