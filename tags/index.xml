@@ -9,13 +9,40 @@
       <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Directory</title>
       <link>https://ardent101.github.io/tags/active-directory/</link>
-      <pubDate>Mon, 12 Dec 2022 08:31:03 +0000</pubDate>
+      <pubDate>Thu, 02 Mar 2023 08:31:03 +0000</pubDate>
       
       <guid>https://ardent101.github.io/tags/active-directory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pentest</title>
+      <link>https://ardent101.github.io/tags/pentest/</link>
+      <pubDate>Thu, 02 Mar 2023 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/tags/pentest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Теория</title>
+      <link>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
+      <pubDate>Thu, 02 Mar 2023 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Токен</title>
+      <link>https://ardent101.github.io/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD/</link>
+      <pubDate>Thu, 02 Mar 2023 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD/</guid>
       <description></description>
     </item>
     
@@ -29,29 +56,11 @@
     </item>
     
     <item>
-      <title>Pentest</title>
-      <link>https://ardent101.github.io/tags/pentest/</link>
-      <pubDate>Mon, 12 Dec 2022 08:31:03 +0000</pubDate>
-      
-      <guid>https://ardent101.github.io/tags/pentest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PKINIT</title>
       <link>https://ardent101.github.io/tags/pkinit/</link>
       <pubDate>Mon, 12 Dec 2022 08:31:03 +0000</pubDate>
       
       <guid>https://ardent101.github.io/tags/pkinit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Теория</title>
-      <link>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
-      <pubDate>Mon, 12 Dec 2022 08:31:03 +0000</pubDate>
-      
-      <guid>https://ardent101.github.io/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
       <description></description>
     </item>
     

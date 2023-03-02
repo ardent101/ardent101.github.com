@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Токен on Ardent101</title>
+    <link>https://ardent101.github.io/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD/</link>
+    <description>Recent content in Токен on Ardent101</description>
+    <image>
+      <url>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2023 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Неприметные токены. Часть 1. Теория</title>
+      <link>https://ardent101.github.io/posts/tokens_theory/</link>
+      <pubDate>Thu, 02 Mar 2023 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/posts/tokens_theory/</guid>
+      <description>Вступление В ходе тестирования на проникновение нередко удается получить доступ с правами уровня локального администратора к какому-то сетевому объекту, функционирующему под управлением операционной системы семейства Windows.
+Следующим этапом, как правило, является повышение привилегий до администратора домена. Существует множество способов пост эксплуатации конечной системы при наличии к ней административного доступа. Наиболее перспективным методом представляется поиск учетных данных, таких как:
+ пароли в открытом виде NT-хэши паролей TGT MsCache v2 хеши секреты в DPAPI и др.</description>
+    </item>
+    
+  </channel>
+</rss>

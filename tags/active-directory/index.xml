@@ -9,7 +9,18 @@
       <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Неприметные токены. Часть 1. Теория</title>
+      <link>https://ardent101.github.io/posts/tokens_theory/</link>
+      <pubDate>Thu, 02 Mar 2023 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/posts/tokens_theory/</guid>
+      <description>Вступление В ходе тестирования на проникновение нередко удается получить доступ с правами уровня локального администратора к какому-то сетевому объекту, функционирующему под управлением операционной системы семейства Windows.
+Следующим этапом, как правило, является повышение привилегий до администратора домена. Существует множество способов пост эксплуатации конечной системы при наличии к ней административного доступа. Наиболее перспективным методом представляется поиск учетных данных, таких как:
+ пароли в открытом виде NT-хэши паролей TGT MsCache v2 хеши секреты в DPAPI и др.</description>
+    </item>
+    
     <item>
       <title>Kerberos для специалиста по тестированию на проникновение. Часть 6. PKINIT</title>
       <link>https://ardent101.github.io/posts/shadow_creds/</link>
