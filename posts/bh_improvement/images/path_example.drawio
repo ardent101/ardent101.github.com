@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:49:23.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="7QcDhHjL6qWh6STgeXgh" version="21.1.4" type="device">
+  <diagram name="Страница 1" id="W1O85sG92k9qmVrpLrZl">
+    <mxGraphModel dx="691" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.workstation_client;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#60a917;shape=mxgraph.azure.user;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.web_server;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-9" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#B09500;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#e3c800;shape=mxgraph.mscae.enterprise.ad_fs;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.9534883720930236;endSize=5.437209302325582;endWidth=8.593834505137911;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="460" as="sourcePoint" />
+            <mxPoint x="250" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.9534883720930236;endSize=5.437209302325582;endWidth=8.593834505137911;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="470" as="sourcePoint" />
+            <mxPoint x="250" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.9534883720930236;endSize=5.437209302325582;endWidth=8.593834505137911;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="550" as="sourcePoint" />
+            <mxPoint x="390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.9534883720930236;endSize=5.437209302325582;endWidth=8.593834505137911;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-14" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#BD7000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f0a30a;shape=mxgraph.azure.user;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.9534883720930236;endSize=5.437209302325582;endWidth=8.593834505137911;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="530" as="sourcePoint" />
+            <mxPoint x="510" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-16" value="&lt;div&gt;Asreproastable &lt;br&gt;&lt;/div&gt;&lt;div&gt;учетная запись&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="481" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-17" value="&lt;div&gt;Сервер &lt;br&gt;&lt;/div&gt;&lt;div&gt;Exchange &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="418" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-18" value="Рабочая станция" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="570" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-19" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#314354;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#647687;shape=mxgraph.mscae.enterprise.folder;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="389" y="380" width="44.19" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-20" value="&lt;div&gt;Группа&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="381.09" y="418" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-21" value="Администратор домена" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394.5" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.9534883720930236;endSize=5.437209302325582;endWidth=8.593834505137911;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="418" as="sourcePoint" />
+            <mxPoint x="510" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-23" value="DC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517.25" y="487" width="45.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-24" value="имеет сессию" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="298" y="517" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-25" value="DCSync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="430.19000000000005" y="518" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-26" value="DCSync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="429.00000000000006" y="399" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-27" value="входит" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="281.50000000000006" y="369" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-28" value="является админом" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="136.00000000000006" y="520" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-FpIrsLtHcP34AIuuvS-29" value="может зайти по RDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="120.00000000000006" y="388" width="113" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
