@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-02-22T12:00:52.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="NezrUy94gsGs40k8QVpr" version="23.1.2" type="device">
+  <diagram name="Page-1" id="XwIKa3L4hptvBuJMNk5J">
+    <mxGraphModel dx="941" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-63" target="vhf-zEQ0WhLaua2n6v57-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-63" value="Онлайн подбор учетной записи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="269" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-64" target="vhf-zEQ0WhLaua2n6v57-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-64" value="&lt;div&gt;Подключение к консоли администрирования &lt;br&gt;&lt;/div&gt;&lt;div&gt;кластера 1С без пароля &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="169" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-66" target="vhf-zEQ0WhLaua2n6v57-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-66" value="Доступ к 1С" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="234" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-67" target="vhf-zEQ0WhLaua2n6v57-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-67" value="Эксплуатация уязвимостей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-68" target="vhf-zEQ0WhLaua2n6v57-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-68" value="Извлечение паролей из файлов СУБД" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-69" target="vhf-zEQ0WhLaua2n6v57-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-69" target="vhf-zEQ0WhLaua2n6v57-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-69" value="Удаленное выполнение команд в ОС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-70" target="vhf-zEQ0WhLaua2n6v57-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-70" value="Доступ к резервным копиям 1С" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-81" value="Дальнейшее продвижение при повторном использовании учетных данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="395" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhf-zEQ0WhLaua2n6v57-78" target="vhf-zEQ0WhLaua2n6v57-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhf-zEQ0WhLaua2n6v57-78" value="Локальное повышение привилегий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="330" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -9,7 +9,32 @@
       <link>https://ardent101.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 May 2023 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 08:31:03 +0000</lastBuildDate><atom:link href="https://ardent101.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Еще 1 раз про пентест 1С</title>
+      <link>https://ardent101.github.io/posts/1c/</link>
+      <pubDate>Thu, 22 Feb 2024 08:31:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/posts/1c/</guid>
+      <description>Введение Настоящий материал по большей части состоит из общедоступных наработок других людей. Целью было проверить указанные наработки на практике и собрать получившиеся результаты в одном месте. Именно этим объясняется название статьи.
+Продолжу рассуждение в терминах, обозначенных ранее.
+По имеющемуся опыту для типовой Организации в качестве ключевой системы можно выделить контроллеры домена, а в качестве критерия подтверждения возможности реализации компьютерных атак, приводящих к негативным для Организации последствиям - получение несанкционированного доступа к учетной записи администратора домена.</description>
+    </item>
+    
+    <item>
+      <title>О целях и задачах при тестировании на проникновение</title>
+      <link>https://ardent101.github.io/posts/manifest/</link>
+      <pubDate>Wed, 21 Feb 2024 11:30:03 +0000</pubDate>
+      
+      <guid>https://ardent101.github.io/posts/manifest/</guid>
+      <description>Изложу свое текущее виденье мероприятий по тестированию на проникновение.
+Цель мероприятий по тестированию на проникновение - повысить уровень защищенности Объекта от компьютерных атак.
+Для достижения цели необходимо выполнить следующие задачи:
+Задача №1. Определить перечень негативных для Объекта последствий компьютерных атак.
+ Примечание: у термина &amp;ldquo;негативные последствия&amp;rdquo; (ФСТЭК) существуют следующие альтернативны:
+ недопустимые события (Минцифры / Positive Technologies) ключевые риски (Банк России)   Хороший перечень негативных последствий (содержит порядка 40 пунктов) представлен на сайте ФСТЭК.</description>
+    </item>
+    
     <item>
       <title>Немного про построение векторов атак</title>
       <link>https://ardent101.github.io/posts/bh_improvement/</link>
